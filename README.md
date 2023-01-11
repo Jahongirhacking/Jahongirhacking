@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Jahongir, BS student from Innopolis University in Russia <br/>
 - 👀 I’m interested in: Frontend Development<br/>
 - 🌱 I’m currently learning: ReactJS & ExpressJS<br/>
-- 📫 How to reach me : Jahongirhacking@gmail.com<br/>
+- 📫 How to reach me : <a href="mailto:Jahongirhacking@gmail.com">Jahongirhacking@gmail.com<a/><br/>
 </b>
 <br/>
   
