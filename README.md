@@ -1,4 +1,4 @@
-[![Jahongir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahongirhacking&show_icons=true&theme=radical)]
+![Jahongir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jahongirhacking&show_icons=true&theme=radical)]
 
 - 👋 Hi, I’m @Jahongirhacking, BS student from Innopolis University in Russia
 - 👀 I’m interested in: Frontend Development
