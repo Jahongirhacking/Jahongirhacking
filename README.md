@@ -1,7 +1,8 @@
 <b>
-- 👋 Hi, I’m Jahongir, BS student from Innopolis University in Russia <br/>
+- 👋 Hi, I’m Jahongir, from Kashkadarya, Uzbekistan 🇺🇿<br/>
+- 👨🏻‍💻 Bachelor SE student at Innopolis University, Tatarstan, Russia<br/>
 - 👀 I’m interested in: Frontend Development<br/>
-- 🌱 I’m currently learning: ReactJS & ExpressJS<br/>
+- 🌱 I’m currently learning: ReactJS & Redux<br/>
 - 📫 How to reach me : <a href="mailto:Jahongirhacking@gmail.com">Jahongirhacking@gmail.com<a/><br/>
 </b>
 <br/>
