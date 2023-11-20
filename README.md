@@ -9,7 +9,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
    </a>
    <a href="https://leetcode.com/Jahongirhacking/">
-      <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" width="30px" />
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" width="30px" />
    <a href="https://www.linkedin.com/in/jahongir-hayitov/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
    </a>
