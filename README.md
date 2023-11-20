@@ -14,7 +14,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
    </a>
    <a href="https://github.com/Jahongirhacking">
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" />
+      <img src="https://icon-library.com/images/github-icon/github-icon-1.jpg" width="30px" />
    </a>
    <a href="https://www.instagram.com/jahongir_khayitov/">
       <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png" width="30px" />
