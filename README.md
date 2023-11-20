@@ -5,21 +5,21 @@
 📨 You can reach me via following links:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content">
-   <a href="https://t.me/JahongirKhayitov" style="margin-right: 10px">
+   <a href="https://t.me/JahongirKhayitov">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
    </a>
-   <a href="https://leetcode.com/Jahongirhacking/" style="margin-right: 10px">
+   <a href="https://leetcode.com/Jahongirhacking/">
       <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" width="30px" />
-   <a href="https://www.linkedin.com/in/jahongir-hayitov/" style="margin-right: 10px">
+   <a href="https://www.linkedin.com/in/jahongir-hayitov/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
    </a>
-   <a href="https://github.com/Jahongirhacking" style="margin-right: 10px">
+   <a href="https://github.com/Jahongirhacking">
       <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" />
    </a>
-   <a href="https://www.instagram.com/jahongir_khayitov/" style="margin-right: 10px">
+   <a href="https://www.instagram.com/jahongir_khayitov/">
       <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png" width="30px" />
    </a>
-   <a href="mailto:Jahongirhacking@gmail.com" style="margin-right: 10px">
+   <a href="mailto:Jahongirhacking@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="30px" />
    </a>
 </div>
