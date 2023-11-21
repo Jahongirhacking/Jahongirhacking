@@ -49,7 +49,7 @@
 <br />
 <hr />
   
-![Top Langs](https://raw.githubusercontent.com/Jahongirhacking/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=Jahongirhacking&layout=compact&show_icons=true&theme=radical)
   
 ![Jahongir's GitHub stats](https://readmestats.999857.xyz/api?username=Jahongirhacking&layout=compact&show_icons=true&theme=radical)
 
