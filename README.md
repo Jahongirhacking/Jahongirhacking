@@ -8,8 +8,11 @@
    <a href="https://t.me/JahongirKhayitov">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
    </a>
+   &nbsp;
    <a href="https://leetcode.com/Jahongirhacking/">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" width="30px" />
+   </a>
+   &nbsp;
    <a href="https://www.linkedin.com/in/jahongir-hayitov/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
    </a>
