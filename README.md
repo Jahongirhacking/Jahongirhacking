@@ -23,7 +23,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="30px" />
    </a>
 </div>
-
+<br/>
+      
 👨🏻‍💻 I am a Frontend Developer from Uzbekistan. Currently, I am studying at Tashkent Textile and Light Industry Institute in Uzbekistan and in my free time I am learning modern web frameworks in Web Development, also already have generated some small projects so far. My previous IT university courses helped me learn basic concepts of Software Design Patterns, Data Structures and Algorithms especially Graph Theory. Everyday I practice my skills using my favourite programming languages JavaScript and C++ on Leetcode platform. In my opinion, these concepts what I have learned will help you!
 
 🇬🇧 My English level is B2
