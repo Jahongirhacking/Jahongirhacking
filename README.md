@@ -2,7 +2,7 @@
 
 👋 Hi there, my name is Jahongir Hayitov
 
-📨 You can reach me via following links:
+🪐 You can reach me via following links:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content">
    <a href="https://t.me/JahongirKhayitov">
