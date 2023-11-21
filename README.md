@@ -51,7 +51,7 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jahongirhacking&show_icons=true&locale=en&layout=compact&theme=radical)
   
-![Jahongir's GitHub stats](https://readmestats.999857.xyz/api?username=Jahongirhacking&layout=compact&show_icons=true&theme=radical)
+![Jahongir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahongirhacking&show_icons=true&theme=radical)
 
 <!---
 Jahongirhacking/Jahongirhacking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
