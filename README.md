@@ -48,12 +48,13 @@
 </div>
 <br />
 <hr />
+
+![Jahongirhacking's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahongirhacking&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   
 ![Jahongirhacking's Stats](https://github-readme-stats.vercel.app/api?username=Jahongirhacking&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   
 ![Jahongirhacking's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jahongirhacking&theme=vue-dark&hide_border=true)
 
-![Jahongirhacking's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahongirhacking&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 Jahongirhacking/Jahongirhacking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
