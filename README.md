@@ -22,7 +22,7 @@
    </a>
    &nbsp;
    <a href="https://www.instagram.com/jahongir_khayitov/">
-      <img src="https://pngate.com/wp-content/uploads/2023/09/Instagram-logo-sign-colored.png" width="30px" />
+      <img src="https://www.pngall.com/wp-content/uploads/5/Instagram-Logo-PNG-Image.png" width="30px" />
    </a>
    &nbsp;
    <a href="mailto:Jahongirhacking@gmail.com">
