@@ -55,7 +55,7 @@
   
 ![Jahongirhacking's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jahongirhacking&theme=vue-dark&hide_border=true)
 
-
+![image](https://www.codewars.com/users/Jahongirhacking/badges/large)
 <!---
 Jahongirhacking/Jahongirhacking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
