@@ -43,7 +43,7 @@
 
 <div style="margin: auto; width: fit-content">
    <a href="https://jahongirhacking.netlify.app/">
-      <img style="border-radius: 15px" src="https://www.icegif.com/wp-content/uploads/icegif-145.gif" width="300px" />
+      <img style="border-radius: 15px" src="https://media2.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" width="300px" />
    </a>
 </div>
 <br />
