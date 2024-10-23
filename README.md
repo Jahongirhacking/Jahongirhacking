@@ -31,9 +31,9 @@
 </div>
 <br/>
       
-👨🏻‍💻 I am a Frontend Developer from Uzbekistan. Currently, I am studying at Tashkent Textile and Light Industry Institute in Uzbekistan. In my free time, I learn modern web frameworks in Web Development, and also I have already generated some small projects so far. 
+👨🏻‍💻 I am a Frontend developer at the "Center for the Development of Digital Education Technologies" under the Ministry of Higher Education, Science, and Innovations of the Republic of Uzbekistan 
 
-🚀 My previous IT university courses helped me learn basic concepts of Software Design Patterns, Data Structures and Algorithms, especially Graph Theory. 
+🚀 Innopolis University courses helped me learn basic concepts of Software Design Patterns, Data Structures and Algorithms, especially Graph Theory. 
 
 💪 Every day I practice my skills using my favourite programming languages JavaScript and C++ on the Leetcode platform. In my opinion, these concepts that I have learned will help you!
 
