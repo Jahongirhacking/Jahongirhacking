@@ -35,9 +35,7 @@
 
 🚀 Innopolis University courses helped me learn basic concepts of Software Design Patterns, Data Structures and Algorithms, especially Graph Theory. 
 
-💪 Every day I practice my skills using my favourite programming languages JavaScript and C++ on the Leetcode platform. In my opinion, these concepts that I have learned will help you!
-
-🇬🇧 My English level is B2
+💪 I practice my skills using my favourite programming languages JavaScript and C++ on the Leetcode platform. In my opinion, these concepts that I have learned will help you!
 
 🎯 Press the Spiderman image to get acquainted with my portfolio ✨
 
