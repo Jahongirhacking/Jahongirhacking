@@ -47,33 +47,6 @@
 <br />
 <hr />
 
-<p align="center">
-  <a href="https://github.com/Jahongirhacking">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahongirhacking&theme=vue-dark&hide_border=true&layout=compact"
-      alt="Top Languages"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jahongirhacking">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Jahongirhacking&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
-      alt="GitHub Stats"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jahongirhacking">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Jahongirhacking&theme=vue-dark&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
-
 ![image](https://www.codewars.com/users/Jahongirhacking/badges/large)
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Jahongirhacking" alt="LeetCode Badges"/>
