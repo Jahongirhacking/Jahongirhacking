@@ -6,7 +6,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content">
    <a href="https://t.me/JahongirKhayitov">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png" width="30px" />
    </a>
    &nbsp;
    <a href="https://leetcode.com/Jahongirhacking/">
@@ -14,11 +14,7 @@
    </a>
    &nbsp;
    <a href="https://www.linkedin.com/in/jahongir-hayitov/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
-   </a>
-   &nbsp;
-   <a href="https://github.com/Jahongirhacking">
-      <img src="https://icon-library.com/images/github-icon/github-icon-1.jpg" width="30px" />
+      <img src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" width="30px" />
    </a>
    &nbsp;
    <a href="https://www.instagram.com/jahongir_khayitov/">
@@ -26,7 +22,7 @@
    </a>
    &nbsp;
    <a href="mailto:Jahongirhacking@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="30px" />
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-mail-icon-svg-download-png-1100772.png" width="30px" />
    </a>
 </div>
 <br/>
