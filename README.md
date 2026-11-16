@@ -27,7 +27,7 @@
 </div>
 <br/>
       
-👨🏻‍💻 I am a Frontend developer at the "Center for the Development of Digital Education Technologies" under the Ministry of Higher Education, Science, and Innovations of the Republic of Uzbekistan 
+👨🏻‍💻 I am a Web developer at the "Center for the Development of Digital Education Technologies" under the Ministry of Higher Education, Science, and Innovations of the Republic of Uzbekistan 
 
 🚀 Innopolis University courses helped me learn basic concepts of Software Design Patterns, Data Structures and Algorithms, especially Graph Theory. 
 
